@@ -1,75 +1,75 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Solo",
+      "link": "https://www.youtube.com/watch?v=ZbhegLgkUlE",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Solo",
+        "url": "https://tuliofalcao.bandcamp.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Improvisando com Helm no Frestas Telúricas 2020",
+          "url": "https://www.youtube.com/watch?v=ZbhegLgkUlE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Ganímedes",
+          "url": "https://www.youtube.com/watch?v=2NiF9lyWS4g"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Túlio Falcão & David Oppetit",
+          "url": "https://www.youtube.com/watch?v=l26-SaUUOw8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Testando LMMS, PD e OBS Studio",
+          "url": "https://www.youtube.com/watch?v=jLQTTWI4dMQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Túlio Falcão, Yuri Bruscky & Thelmo Cristovam",
+          "url": "https://www.youtube.com/watch?v=PQmC6Wk5iqs"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Túlio Falcão & Fernando Perales",
+          "url": "https://www.youtube.com/watch?v=Nlx36ZrcV40"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "INCITI",
+          "url": "https://www.youtube.com/watch?v=-wa5YvGoHBU"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "FoxDot",
+          "url": "https://www.youtube.com/watch?v=Jdf2FeJAXPI"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Realidade Encoberta",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Crossover de Recife",
+        "url": "https://www.youtube.com/channel/UCsCPnTN6Rl9HVuCmjc0Gaww"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Ao Vivo no Quarta Cinza do Rock 2020",
+          "url": "https://www.youtube.com/watch?v=FDz4wMfp0Lo"
         },
         {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "url": "https://www.youtube.com/watch?v=h_k9V_Z1hgM"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "url": "https://www.youtube.com/watch?v=PakP7hAKKI0"
         },
         {
           "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "url": "https://www.youtube.com/watch?v=Vz9UKNhQa9U"
         }, 
         {
           "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "url": "https://www.youtube.com/watch?v=nm_dFBtW2ms"
         }
       ]
     },
